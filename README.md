@@ -42,6 +42,6 @@ This speeds up the code dramatically, as for loops tend to increase runtime.
 
 Refactoring code is very much a net gain process. While it might take a little bit of time to go through old code and make the necessary changes, the time saved on future uses of the code will make up for it. Not only will that specific code run more efficiently going forward, but you will likely learn ways to write code more efficiently from the jump and save time on refactoring in the future as well.
 
-### Advantages and Disadvantages of Refactoring the Original VBA Script
+### Advantages and Disadvantages of Refactoring the Original VBA Script in This Project
 
 As it pertains to the code for this specific project, I can only think of one potential con - the code being a little bit more difficult for a new coder to write or understand. When I first started writing code, mostly in Python, I found it easy to write and follow along with for loops. It was just a natural way for my brain to walk through datasets, so it became my default. Clearly, for loops are not the most efficient way to write code, so refactoring them using arrays is a great way to improve a given bit of code. It just might come with a bit of a learning curve for some, including myself.
